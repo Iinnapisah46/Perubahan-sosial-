@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<presentation title="IPS Kelas 9 BAB 2 - PERUBAHAN SOSIAL  BUDAYA PDTK" width="720.0000000" height="405.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{70988F47-F2FA-460D-BA94-FB6BC41B682F}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets/>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="0">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="0" target="step"/>
+			<gesture zoom="0"/>
+		</navigation>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="PERUBAHAN SOSIAL BUDAYA" titleNormalized="perubahan sosial budaya" src="slide1.swf" size="4428" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>PERUBAHAN SOSIAL BUDAYA
+MTS N 4 JEMBRANA
+OLEH : Dra .IIN NAPISAH
+IPS KLS IX</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="NoSidebar"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="1" title="TUJUAN PEMBELAJARAN" titleNormalized="tujuan pembelajaran" src="slide2.swf" size="4266" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>TUJUAN PEMBELAJARAN
+
+SISWA MEMAHAMI PERUBAHAN SOSIAL</text>
+		</slide>
+		<slide index="2" title="PERUBAHAN SOSIAL BUDAYA" titleNormalized="perubahan sosial budaya" src="slide3.swf" size="4840" advanceOnTime="0" framesCount="25" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="24" playTime="1.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>KOMPETENSI DASAR
+MENGANALISIS PERUBAHAN KEHIDUPAN SOSIAL BUDAYA BANGSA INDONESIA DALAM MENGHADAPI ARUS GLOBALISASI UNTUK MEMPERKUKUH KEBANGSAAN
+PERUBAHAN SOSIAL BUDAYA</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="5131" advanceOnTime="0" framesCount="49" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="48" playTime="2.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Perubahan sosial merupakan perubahan pada lembaga-lembaga kemasyarakatan di dalam suatu masyarakat yang memengaruhi sistem sosialnya, termasuk nilai-nilai, sikap, dan perilaku di antara kelompok-kelompok dalam masyarakat. (Selo Soemardjan)
+MATERI
+Perubahan Sosial Budaya</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="4864" advanceOnTime="0" framesCount="49" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="48" playTime="2.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Menurut Koentjaraningrat, perubahan budaya adalah proses pergeseran, pengurangan, penambahan, dan perkembangan unsur-unsur dalam suatu kebudayaan.
+Perubahan Sosial Budaya</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="4836" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Perubahan kebudayaan meliputi aspek yang mendasar, yakni peralatan dan perlengkapan hidup, mata pencarian, sistem kemasyarakatan, bahasa, kesenian, sistem pengetahuan, serta religi.
+Perubahan Sosial Budaya
+ILMU PENGETAHUAN SOSIAL</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="4541" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ada tiga faktor utama perubahan budaya, yaitu Inovasi, Discovery, Invention.
+Perubahan Sosial Budaya</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="4506" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Kingsley Davis menyatakan bahwa perubahan sosial bagian dari perubahan kebudayaan. Oleh karena itu, untuk mencakup kedua perubahan tersebut, kedua istilah ini digabung menjadi perubahan sosial-budaya.
+Perubahan Sosial Budaya</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="5885" advanceOnTime="0" framesCount="241" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="240" playTime="10.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Berikut beberapa karakteristik perubahan sosial budaya yaitu:
+Tidak ada masyarakat yang perkembangannya berhenti.
+Perubahan yang terjadi pada lembaga kemasyarakatan tertentu akan diikuti perubahan-perubahan pada lembaga-lembaga sosial yang lain.
+Perubahan-perubahan yang cepat biasanya mengakibatkan kekacauan sementara.
+Perubahan-perubahan tidak dapat dibatasi pada bidang kebendaan atau bidang spiritual saja. 
+Perubahan Sosial Budaya</text>
+		</slide>
+		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="15104" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Bentuk Perubahan Sosial Budaya Dilihat dari Waktunya
+
+Melalui modernisasi, sistem transportasi mulai berubah menyesuaikan dengan perkembangan masyarakat. Misalnya, penggunaan MRT (Evolusi).
+Kekalahan Jepang atas Sekutu dimanfaatkan Indonesia unuk memproklamasikan kemerdekaan Indonesia (Revolusi).
+Perubahan Sosial Budaya
+ILMU PENGETAHUAN SOSIAL</text>
+		</slide>
+		<slide index="10" title="" titleNormalized="" src="slide11.swf" size="5436" advanceOnTime="0" framesCount="145" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="144" playTime="6.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Perubahan Sosial Budaya
+Bentuk Perubahan Sosial Budaya Dilihat dari Pengaruhnya
+
+Perubahan model pakaian dan perubahan gaya arsitektur. (perubahan yang pengaruhnya kecil)
+
+Industrialisasi di daerah pertanian akan memengaruhi kehidupan masyarakat, mulai dari hubungan kekeluargaan, sistem kerja, sistem kepemilikan tanah, hingga sistem pelapisan masyarakat. (perubahan yang pengaruhnya besar)</text>
+		</slide>
+		<slide index="11" title="" titleNormalized="" src="slide12.swf" size="12792" advanceOnTime="0" framesCount="145" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="144" playTime="6.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Perubahan Sosial Budaya
+Bentuk Perubahan Sosial Budaya Dilihat dari Perencanaanya
+
+Lahirnya Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional yang menyatakan setiap warga berusia tujuh sampai limabelas tahun wajib mengikuti pendidikan dasar. (direncanakan)
+
+Bencana alam seperti Tsunami di aceh pada tahun 2004 merupakan peristiwa yang tidak direncanakan.</text>
+		</slide>
+		<slide index="12" title="" titleNormalized="" src="slide13.swf" size="4903" advanceOnTime="0" framesCount="49" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="48" playTime="2.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Perubahan Sosial Budaya
+Faktor perubahan sosial-budaya dari dalam masyarakat adalah perubahan jumlah penduduk, penemuan-penemuan baru, pertentangan (konflik), dan pemberontakan atau revolusi.</text>
+		</slide>
+		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="74993" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Media Pembelajaran
+IPS
+MTs N 4 Jembrana Kelas IX
+Oleh : Dra, IIN NAPISAH
+ILMU PENGETAHUAN SOSIAL
+ Quiz
+Click the Quiz button to edit this object</text>
+		</slide>
+	</slides>
+</presentation>
